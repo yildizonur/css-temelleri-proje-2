@@ -1,5 +1,5 @@
 # Hakkında
-CSS temellerini öğrendiğim ve bu temelleri pratik etmek amaçlı verilen ödev için oluşturduğum proje. 
+CSS temellerini öğrendiğim ve bu temelleri pratik etmek amaçlı verilen ödev için oluşturduğum proje. Gerekli tasarım talimatları(font büyüklükleri, resim büyüklüleri vb.) bildirilmediği için tahmini değerler ile en verimli sonuca ulaşılmaya çalışılmıştır.
 
 # Ekran Görüntüsü
 ## İstenilen Ödevin Ekran Görüntüsü
